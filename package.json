@@ -1,0 +1,25 @@
+{
+    "name": "rapid-bcs",
+    "version": "0.1.0",
+    "description": "BCS implemention for rapidjs data access layer",
+    "main": "index.js",
+    "scripts": {
+        "test": "rapid test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Clouda-team/rapid-bcs.git"
+    },
+    "keywords": [
+        "bcs"
+    ],
+    "dependencies": {
+        "rapid-access": "*"
+    },
+    "author": "kyriosli",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Clouda-team/rapid-bcs/issues"
+    },
+    "homepage": "https://github.com/Clouda-team/rapid-bcs"
+}
